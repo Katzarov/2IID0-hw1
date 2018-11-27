@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543315388776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3132201092",
+    "id" : "AD280282",
+    "lastKnownWriteTime" : 1543315330,
+    "last_content_update" : 1543315330,
+    "path" : "C:/Users/LKat/Desktop/2IID0/hw1/numrical_imputation_boruta_rf.R",
+    "project_path" : "numrical_imputation_boruta_rf.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
